@@ -1,0 +1,17 @@
+body {
+  margin-top: 3em;
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#output {
+  display: none;
+}
+
+#output2 {
+  display: none;
+}
